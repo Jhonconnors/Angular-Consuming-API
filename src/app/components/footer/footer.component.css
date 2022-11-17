@@ -1,0 +1,9 @@
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-size: 20px;
+    background-image: linear-gradient(210deg, #b49dde 0, #8b7ed3 25%, #5260c7 50%, #0047bc 75%, #0035b2 100%); 
+    border-radius: 4rem;
+} 
+

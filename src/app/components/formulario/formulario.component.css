@@ -1,0 +1,20 @@
+.heading{
+    font-weight: 900;
+    font-size: 2.6rem;
+    
+    text-align: center;
+}
+.jumbotron{
+    margin-top: 4rem;
+    margin-bottom: 3rem;
+    color: aliceblue;
+    padding: 2rem;
+    background-image: linear-gradient(210deg, #b49dde 0, #8b7ed3 25%, #5260c7 50%, #0047bc 75%, #0035b2 100%); 
+    border: 2px solid #121111;
+    border-radius: 4rem;
+    
+}
+
+.form-group, .form-select {
+    font-size: 1.2rem;
+}
